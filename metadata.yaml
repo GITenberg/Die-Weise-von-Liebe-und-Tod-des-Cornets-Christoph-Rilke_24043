@@ -1,0 +1,29 @@
+_repo: Die-Weise-von-Liebe-und-Tod-des-Cornets-Christoph-Rilke_24043
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rilke, Rainer Maria
+    birthdate: 1875
+    deathdate: 1926
+    gutenberg_agent_id: '846'
+    url: http://www.gutenberg.org/2009/agents/846
+    wikipedia: http://en.wikipedia.org/wiki/Rainer_Maria_Rilke
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24043'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Europe -- History -- Ottoman Wars -- 4th Austrian Ottoman War, 1663-1664
+  -- Fiction'
+title: Die Weise von Liebe und Tod des Cornets Christoph Rilke
+url: http://www.gutenberg.org/ebooks/24043
