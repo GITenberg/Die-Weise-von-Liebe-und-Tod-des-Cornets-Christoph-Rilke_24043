@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/846
     wikipedia: http://en.wikipedia.org/wiki/Rainer_Maria_Rilke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24043#Die-Weise-von-Liebe-und-Tod-des-Cornets-Christoph-Rilke
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-12-26'
 gutenberg_type: Text
